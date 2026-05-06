@@ -1,0 +1,9 @@
+name: shapeless3
+description: a port of the shapeless library to scala 3, porting commonly used capability by our tech stack
+type: library
+lifecycle-status: active
+criticality: high
+team: DM
+tech-stack:
+  languages:
+    - scala-3 
